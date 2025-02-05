@@ -1,3 +1,5 @@
+// problem : a number u is given. u is sum of two numbers in the array. we have to find that two numbers.
+
 // sorting the array
 // seting point in two edges , setting a middle point.
 //if the sum of i+j is bigger it shall come left from the higher boundary.
