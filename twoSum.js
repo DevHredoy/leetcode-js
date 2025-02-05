@@ -40,8 +40,13 @@ while (flag == true) {
 }
 
 /*
-array.sort()
+for sorting in ascending order:
+array.sort(function(a,b){return a-b;})
 
+for  sortin in descending order:
+
+array.sort(function(a,b){
+return b-a;})
 
 
 
